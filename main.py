@@ -7,5 +7,5 @@ if __name__ == '__main__':
 
     while True:
         fan.setup_fun(12, 1000)
-        sleep(600)
         print(100)
+        sleep(600)
